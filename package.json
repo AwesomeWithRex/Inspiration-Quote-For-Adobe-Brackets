@@ -1,0 +1,18 @@
+{
+    "name": "inspiration_quote_for_brackets.550342",
+    "title": "Inspiration",
+    "description": "Gives you an inspirational quote, click File>Inspiration.",
+    "homepage": "https://github.com/AwesomeWithRex/Inspiration-Quote-For-Adobe-Brackets",
+    "version": "0.0.1",
+    "author": "Rex (https://www.youtube.com/channel/UC7TBJkvtAdbMxS-11Gr8MWA)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=2.0.1"
+    },
+    "i18n": [ "en", "fr"],
+    "package-i18n": {
+        "fr": {
+            "description": "Vous donne une citation inspirante, cliquez sur Fichier> Inspiration."
+        }
+    }
+}
