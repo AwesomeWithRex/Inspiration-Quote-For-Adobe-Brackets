@@ -8,7 +8,7 @@ Because this is my first extension.
 ### Why does this exist?
 Why not.
 ### Why can I not find this on the extenion manager?
-Because IDK how to upload. :|
+Because IDK how to upload. :|  ```help```
 #### How do I use this then?
 Download this, extract the zip then open Brackets and click Help>Show Extensions Folder
 then double-click User and move the extracted folder into that.
